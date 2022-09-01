@@ -1,7 +1,7 @@
 code line 1:
 
-this is the NEW master1
+some changes in branch1 1
 
 code line 2:
 
-this is Branch1 2
+some changes in branch1 2
