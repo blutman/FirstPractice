@@ -1,7 +1,7 @@
 code line 1:
 
-this is the NEW master1
+totaly new 1
 
 code line 2:
 
-this is Branch1 2
+totaly new 2
